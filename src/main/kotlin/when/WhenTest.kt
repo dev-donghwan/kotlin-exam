@@ -1,3 +1,5 @@
+package `when`
+
 object Weather {
 
     const val SUNNY = "SUNNY"

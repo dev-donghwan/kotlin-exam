@@ -1,3 +1,5 @@
+package enum
+
 enum class Person(val familyName: String, val firstName: String) {
     A(familyName = "김", firstName = "동환"),
     B(familyName = "커리", firstName = "스테픈"),

@@ -1,4 +1,4 @@
-import java.util.*
+package enum
 
 enum class Operating(val sign: String, val operating: (Int, Int) -> Int) {
     ADD("+", { x, y -> x + y }),
